@@ -39,7 +39,7 @@ export const projects = [
 
   {
     id: 3,
-    title: 'Tata Steel Product Catalog + RAG Platform',
+    title: 'Product Catalog + RAG Platform',
     description:
       'Enterprise full-stack product management system featuring secure authentication, MongoDB integration, AI-powered chatbot, dynamic product catalog, image uploads, and complete CRUD functionality.',
     tech: [
